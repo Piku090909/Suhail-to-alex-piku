@@ -97,11 +97,11 @@
     },
     "MODE": {
       "description": "Worktype of your bot. Use public/private, if private then only bot number can use it. If public then everyone can use it.",
-      "value": "private"
+      "value": "public"
     },
     "PACK_NAME": {
       "description": "Put Sticker Pack_Name.",
-      "value": "Suhail Md",
+      "value": "𝛥𝐿𝛯𝛸 𝛲𝛪𝛫𝑈",
       "required": false 
     },
     "PACK_AUTHER": {
